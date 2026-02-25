@@ -65,7 +65,7 @@ autohub/
 - Componentes reutilizáveis
 - Layout responsivo
 
-## 🏗️ Arquitetura real (produção)
+## Arquitetura real (produção)
 
 ```
 Lead (WhatsApp/Ads)
@@ -76,11 +76,10 @@ Lead (WhatsApp/Ads)
         └─► GA4 → Evento generate_lead
 ```
 
-## 📝 Deploy
+## Deploy
 
 ```bash
 npm run build
 npm run start
-# ou deploy direto no Vercel
 ```
  ![Example Image](https://github.com/marcelacrvalho/autohub/blob/master/autohub.PNG)
