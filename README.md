@@ -2,14 +2,14 @@
 
 Projeto portfolio desenvolvido com **Next.js 14 + TypeScript + Tailwind CSS** cobrindo os requisitos da vaga de Desenvolvedor na V4 Company.
 
-## 🚀 Stack
+## Stack
 
 - **Next.js 14** (App Router)
 - **TypeScript**
 - **Tailwind CSS**
 - **Lucide React** (ícones)
 
-## 📦 Instalação
+## Instalação
 
 ```bash
 npm install
@@ -18,7 +18,7 @@ npm run dev
 
 Acesse: http://localhost:3000
 
-## 🗂️ Estrutura
+## Estrutura
 
 ```
 autohub/
@@ -39,31 +39,31 @@ autohub/
     └── utils.ts            # cn() helper
 ```
 
-## ✅ Requisitos cobertos
+## Requisitos cobertos
 
 ### Inteligência Artificial & Automação
-- ✅ Agente SDR com chat funcional (qualificação BANT)
-- ✅ Configuração de modelo LLM, persona e temperatura
-- ✅ Fluxo conversacional WhatsApp + Web
-- ✅ Visualização de workflows n8n/Make/Zapier
-- ✅ Arquitetura orientada a funil, LTV e ROI
+- Agente SDR com chat funcional (qualificação BANT)
+- Configuração de modelo LLM, persona e temperatura
+- Fluxo conversacional WhatsApp + Web
+- Visualização de workflows n8n/Make/Zapier
+- Arquitetura orientada a funil, LTV e ROI
 
 ### Integrações & Dados
-- ✅ Log ao vivo de chamadas REST API (GET/POST)
-- ✅ Payload JSON de webhooks estruturado
-- ✅ Cards de integração: HubSpot, Salesforce, Meta Ads, GA4, GTM
-- ✅ Rate limits e saúde das integrações
+- Log ao vivo de chamadas REST API (GET/POST)
+- Payload JSON de webhooks estruturado
+- Cards de integração: HubSpot, Salesforce, Meta Ads, GA4, GTM
+- Rate limits e saúde das integrações
 
 ### Tracking & Conversão
-- ✅ Stream ao vivo de eventos (Pixel Meta, CAPI, GA4, GTM custom)
-- ✅ Toggle de tracking server-side vs client-side
-- ✅ Funil orientado a ROI
+- Stream ao vivo de eventos (Pixel Meta, CAPI, GA4, GTM custom)
+- Toggle de tracking server-side vs client-side
+- Funil orientado a ROI
 
 ### Web & Infraestrutura
-- ✅ Next.js 14 App Router
-- ✅ TypeScript com tipos bem definidos
-- ✅ Componentes reutilizáveis
-- ✅ Layout responsivo
+- Next.js 14 App Router
+- TypeScript com tipos bem definidos
+- Componentes reutilizáveis
+- Layout responsivo
 
 ## 🏗️ Arquitetura real (produção)
 
@@ -83,3 +83,4 @@ npm run build
 npm run start
 # ou deploy direto no Vercel
 ```
+ ![Example Image](https://github.com/marcelacrvalho/autohub/blob/master/autohub.PNG)
